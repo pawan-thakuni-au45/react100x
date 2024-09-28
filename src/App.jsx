@@ -1,3 +1,7 @@
+
+
+
+//this was the frist day to write some code and we just have created simple connect wallet with airdrop functionaility
 import { useState } from 'react'
 import { ConnectionProvider, WalletProvider } from '@solana/wallet-adapter-react';
 import { WalletAdapterNetwork } from '@solana/wallet-adapter-base';
