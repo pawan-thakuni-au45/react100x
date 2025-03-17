@@ -21,3 +21,6 @@ const layout=()=>{
 useRef==>
 const inputRef=useRef()
 <input ref={inputRef}></input>
+
+=========================================================
+useFetch hook==> it will take url as an input 
